@@ -1,5 +1,7 @@
 👋 Olá! Eu sou o Ciel! 😄
-<img src="data:image/png;base64,{{Generated_Image}}" alt="Anime character waving hello" style="width:200px;"/>
+
+![image](https://github.com/user-attachments/assets/1a5d8496-bbbc-4067-ae6e-3e01a2d0a166)
+
 
 🎉 Seja bem-vindo ao meu perfil no GitHub! Sou um programador com mais de 5 anos de experiência em desenvolvimento de scripts, apaixonado por tecnologia e sempre em busca de novos desafios e aprendizados.
 
